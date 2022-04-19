@@ -13,4 +13,9 @@ public class Task {
         Para gönderme işleminde istenen iban TR ile baslamali ve toplam 26 karakterli olmali, eger değilse menü ekranina geri donsun.
         Sifre değiştirme işleminde mevcut şifreyi teyit ettikten sonra, sifre değişiklik işlemini yapmali,
      */
+
+    public static void main(String[] args) {
+        System.out.println("emrah branch olustu");
+    }
 }
+
